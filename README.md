@@ -3,7 +3,7 @@ A Program to display step by step solution to Tower_Of_Hanoi Problem</br>
 The Program asks for no. of disks in the first rod and then displays all steps with the help of a figure to solve the Problem.</br>
 Just clone the repository or copy the code , compile it and run it.
 
-For Example 👎
+For Example :-
 if No. of disks = 3
 OUTPUT will be :-
 Initially
